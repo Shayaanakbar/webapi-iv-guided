@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "server": "nodemon index.js",
-    "start": "node index.js" // adding because we need it to deploy
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
